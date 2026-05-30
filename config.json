@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerdrocess",
+        "uuid": 13976230,
+        "checksum": "ml9h9t"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
